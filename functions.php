@@ -137,7 +137,7 @@ function rsc_head() { ?>
     $('.menu-showhide-hooks a').popover({
       "title":"Important!",
       "content":"Click this to show indicators.",
-      "placement":"bottom",
+      "placement":"right",
       "trigger":"manual"
     }).popover('show');
   });

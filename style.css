@@ -15,5 +15,9 @@ Template:       roots
 }
 
 .brand {
-  visibility:hidden;
+  display:none;
+}
+
+body {
+  padding-top:2em;
 }
