@@ -7,3 +7,13 @@ Author:         Joel Kuczmarski
 Author URI:     https://github.com/leoj3n
 Template:       roots
 */
+
+.hook {
+  display:block;
+  clear:both;
+  width:50%;
+}
+
+.brand {
+  visibility:hidden;
+}
