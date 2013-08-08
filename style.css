@@ -1,9 +1,9 @@
 /*
 Theme Name:     Roots Simple Child
-Theme URI:      http://child.playersplugin.com/
-Description:    Roots child theme.
+Theme URI:      https://github.com/leoj3n/roots-simple-child
+Description:    A simple Roots child theme
 Version:        1.0
-Author:         Joel Kuczmarski
+Author:         Joel Kuzmarski
 Author URI:     https://github.com/leoj3n
 Template:       roots
 */
@@ -15,7 +15,7 @@ Template:       roots
 }
 
 .brand {
-  display:none;
+  display:none !important;
 }
 
 body {
